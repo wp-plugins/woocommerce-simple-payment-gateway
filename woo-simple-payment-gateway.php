@@ -3,7 +3,7 @@
 Plugin Name:       WooCommerce Simple Payment Gateway
 Plugin URI:        https://wordpress.org/plugins/woocommerce-simple-payment-gateway/
 Description:       A WooCommerce Extension that adds payment gateway "Simple Payment Gateway"
-Version:           1.0.1
+Version:           1.0.2
 Author:            Webdarom
 Author URI:        http://webdarom.ru
 License:           GPL-2.0+
